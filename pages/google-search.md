@@ -5,7 +5,7 @@ permalink: /search/google.html
 noindex: true
 ---
 
-## Google Site Search
+## Google Site Searc
 
 <div class="alert alert-primary" role="alert">
   Please note: CSE is a free service provided by Google. Results depend on third party indexing and may contain ads.
